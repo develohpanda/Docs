@@ -12,7 +12,7 @@ client work using previously-used toolsets, clients can expect more predictable 
 resources for help and guidance and Intergen can drive more cost-effective development effort through efficient delivery of code.
 
 These documents will outline:
-* Softare Platforms (the high-level categories of technologies we build on, e.g. Azure, JavaScript, Xamarin, etc)
+* Software Platforms (the high-level categories of technologies we build on, e.g. Azure, JavaScript, Xamarin, etc)
 * Tools (the applications used to deliver products, e.g. source control, build management, IDEs)
 * Processes (the methodologies, project and communication standards we base our delivery from)
 * Philosophies (the overarching ideals against which we base our decisions around the choices of the above three topics)
