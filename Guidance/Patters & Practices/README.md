@@ -1,1 +1,0 @@
-﻿# Patters & Practices
